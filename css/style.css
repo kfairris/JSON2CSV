@@ -23,6 +23,9 @@ body {
 .text-box {
   margin: 1rem auto;
 }
+.buttons {
+  align-self: center;
+}
 
 /******************************************
 /* ADDITIONAL STYLES
